@@ -1,2 +1,2 @@
 # Machine-Learning
-A collection of standalone Machine Learning Projects that I've worked on
+This repository is a collection of Machine Learning projects that I have worked on.  Each project has a brief description in the first cell of the Jupyter notebook.  Each has a Jupyter Notebook and data file (text or CSV).  I highly recommend downloading Jupyter notebook to see and run cells within the files.  Regardless, the CSV and ipynb files for a project must be in the same directory in order for the models to work.  
